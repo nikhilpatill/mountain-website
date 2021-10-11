@@ -1,0 +1,66 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-image:url('../image\ folder/th.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.sp2{
+    color: rgb(250, 4, 4);
+    
+
+}
+
+.lobo{
+    
+    color: honeydew;
+    margin: -8px 102px 5px 9px;
+    padding: 9px 27px 7px 15px;
+    display: inline-flex;
+    float: left;
+       
+}
+
+ul{
+    
+    margin: -8px 78px 5px 187px;
+    padding: 9px 27px 7px 15px;
+    display: inline-flex;
+    float: right;
+       
+       
+
+}
+  a{
+    
+    text-decoration: none;
+   
+   
+  }
+  .sp1{
+      color: honeydew;
+      font-size: 20px;
+      font-weight: bolder;
+      font-style: initial;
+  }
+  .sp1:hover{
+      background-color: rgb(241, 255, 47);
+      color: black;
+      font-size: initial;
+  }
+
+li {
+
+
+    text-align: center;
+    display: inline;
+    margin-left: 17px;
+    padding: 5px 5px 5px 5px ;
+}
+
