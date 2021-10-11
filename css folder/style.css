@@ -20,7 +20,7 @@ body{
 .lobo{
     
     color: honeydew;
-    margin: -8px 102px 5px 9px;
+    margin: -3px 102px 5px 149px;
     padding: 9px 27px 7px 15px;
     display: inline-flex;
     float: left;
@@ -30,7 +30,7 @@ body{
 ul{
     
     margin: -8px 78px 5px 187px;
-    padding: 9px 27px 7px 15px;
+    padding: 15px 27px 7px 15px;
     display: inline-flex;
     float: right;
        
