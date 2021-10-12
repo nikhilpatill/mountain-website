@@ -63,6 +63,42 @@ ul{
       border-bottom: 2px solid whitesmoke;
   }
 
+  
+ .h2{
+
+    
+    padding: 5px 102px 0px 451px;
+    margin: 114px 23px 7px 65px;
+}
+    
+  
+  
+  .sp3{
+      color:red;
+      font-size: 15px;
+      font-weight: bold;
+  }
+  .P1{
+    
+    padding: 1px 5px 5px 8px;
+    margin: 13px 20px 22px 199px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: whitesmoke;
+    width: 909px;
+
+  }
+
+  .btn{
+       border: 2px solid whitesmoke;
+       padding: 10px 13px 10px 10px;
+       margin: 8px 26px 43px 547px;
+       text-transform: uppercase;
+       background-color:whitesmoke ;
+       border-radius: 23px;
+     
+  }
+
 li {
 
 
