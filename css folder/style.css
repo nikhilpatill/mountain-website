@@ -7,7 +7,7 @@
 
     max-width: 1200px;
     width: 95%;
-    
+
 
 }
 
@@ -57,9 +57,10 @@ ul{
       font-style: initial;
   }
   .sp1:hover{
-      background-color: rgb(241, 255, 47);
-      color: black;
-      font-size: initial;
+      
+    color: yellow;
+      font-size: 25px;
+      border-bottom: 2px solid whitesmoke;
   }
 
 li {
