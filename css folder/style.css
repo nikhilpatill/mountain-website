@@ -98,7 +98,6 @@ ul{
        border-radius: 23px;
      
   }
-
 li {
 
 
@@ -107,5 +106,44 @@ li {
     margin-left: 17px;
     padding: 5px 5px 5px 5px ;
 }
+
+.showcase{
+    background-color: seashell;
+    border: 2px solid red;
+    padding: 26px 1px 8px 5px;
+    margin: 289px -2px 5px -5px;
+}
+
+
+.row1{
+
+    border: 2px solid red;
+    padding: 104px 5px 5px 17px;
+    margin: 15px 79px 55px 79px;
+}
+
+.row2{
+
+    border: 2px solid red;
+    padding: 104px 5px 5px 17px;
+    margin: 12px 79px 5px 79px;
+}
+
+ .R1{
+    border: 2px solid blueviolet;
+    padding: 7px 5px 5px 5px;
+    margin: 6px 454px 8px -17px;
+}
+
+ .R2{
+
+    border: 2px solid blueviolet;
+    padding: 5px 5px 5px 5px;
+    margin: -50px -6px 5px 360px;
+}
+
+
+
+
 
 
