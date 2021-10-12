@@ -3,6 +3,13 @@
     margin: 0px;
     padding: 0px;
 }
+.container{
+
+    max-width: 1200px;
+    width: 95%;
+    
+
+}
 
 body{
 
