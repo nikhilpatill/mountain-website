@@ -11,8 +11,8 @@
 
 }
 
-body{
-
+ .back_img{
+    height: 611px;
     background-image:url('../image\ folder/th.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -98,6 +98,13 @@ ul{
        border-radius: 23px;
      
   }
+
+  .btn:hover{
+     
+    background-color: rgb(182, 169, 169);
+  }
+
+  
 li {
 
 
@@ -108,10 +115,11 @@ li {
 }
 
 .showcase{
-    background-color: seashell;
+    
+    background-color: rgb(219, 212, 201);
     border: 2px solid red;
     padding: 26px 1px 8px 5px;
-    margin: 289px -2px 5px -5px;
+    margin: -18px -2px 5px -5px;
 }
 
 
@@ -119,7 +127,8 @@ li {
 
     order: 2px solid red;
     padding: 104px 5px 0px 17px;
-    margin: 15px 79px 54px 79px;
+    margin: 15px 79px 73px 79px;
+
 }
 
 .row2{
@@ -134,6 +143,7 @@ li {
     border: 1px solid black;
     padding: 2px -1px 7px 22px;
     margin: -107px 330px -55px 136px;
+    box-shadow:-5px 9px 18px red;
 }
 
 
@@ -143,9 +153,11 @@ li {
     border: 2px solid blueviolet;
     padding: 4px 5px 5px 5px;
     margin: -206px -6px 5px 488px;
+    background-color: rgb(180, 164, 152);
     height: 192px;
     width: 334px;
     text-align: center;
+    box-shadow:4px 8px 17px 1px red;
 }
 
 
@@ -154,7 +166,8 @@ li {
     border: 1px solid black;
     padding: 2px -1px 7px 22px;
     margin: -107px 330px -55px 136px;
-}
+    box-shadow:-5px 9px 18px red;
+ }
 
 
 
@@ -165,7 +178,9 @@ li {
     margin: -206px -6px 5px 488px;
     height: 192px;
     width: 334px;
+    background-color: rgb(180, 164, 152);
     text-align: center;
+    box-shadow:4px 8px 17px 1px red;
 }
 
 .btn1{
@@ -175,7 +190,17 @@ li {
     text-transform: uppercase;
     background-color: wheat;
     border-radius: 24px;
+    border-color: rgb(255, 163, 163);
 }
+
+.btn1:hover{
+    
+    
+    border-color: rgb(250, 4, 4);
+
+    background-color: rgb(182, 169, 169);
+}    
+
 
 .btn2{
     border: 2px solid whitesmoke;
@@ -184,7 +209,83 @@ li {
     text-transform: uppercase;
     background-color: wheat;
     border-radius: 24px;
+    border-color: rgb(255, 163, 163);
 }
+
+.btn2:hover{
+
+    border-color: red;
+    background-color: rgb(182, 169, 169);
+    
+
+}
+
+/* showcase2 ------------------------------------------- */
+
+.showcase2{
+
+    border: 2px solid black;
+    padding: 103px 5px 18px 5px;
+    margin: -6px 0px 5px 0px;
+    background-color: rgb(219, 212, 201);
+  
+}
+
+.row3{
+
+    
+    padding: 0px 21px 14px 10px;
+    margin: -87px 202px -15px 136px;
+}
+    
+
+
+.c1{
+
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px ;
+    margin: 5px 5px 4px 82px ;
+    height: 122px;
+    background-color: rgb(236, 174, 82);
+    width: 203px;
+    box-shadow:8px 8px 22px 0px rgb(182, 174, 174);
+   
+    
+}
+
+
+.c2{
+    border: 2px solid black;
+    padding: 5px 5px 4px 5px;
+    margin: -139px 104px 0px 19px;
+    height: 122px;
+    background-color: rgb(213, 236, 82);
+    width: 204px;
+    float: right;
+    box-shadow:8px 8px 22px 0px rgb(182, 174, 174);
+   
+}
+   
+
+
+
+.c3{
+
+    border: 2px solid black;
+    padding: 0px 5px 2px 5px ;
+    margin: -139px 6px 3px 297px ;
+    background-color: rgb(151, 236, 82);
+    height: 129px;
+    width: 200px;
+    box-shadow:8px 8px 22px 0px rgb(182, 174, 174);
+   
+    
+};
+   
+    
+
+
+
 
 
 
