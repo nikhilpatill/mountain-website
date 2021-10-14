@@ -117,7 +117,7 @@ li {
 .showcase{
     
     background-color: rgb(219, 212, 201);
-    border: 2px solid red;
+    
     padding: 26px 1px 8px 5px;
     margin: -18px -2px 5px -5px;
 }
@@ -224,7 +224,7 @@ li {
 
 .showcase2{
 
-    border: 2px solid black;
+    
     padding: 103px 5px 18px 5px;
     margin: -6px 0px 5px 0px;
     background-color: rgb(219, 212, 201);
@@ -280,9 +280,33 @@ li {
     box-shadow:8px 8px 22px 0px rgb(182, 174, 174);
    
     
-};
+}
    
+ .footer{
+
     
+    padding: 2px 2px 2px 2px;
+    margin: -5px 0px 5px 0px;
+    width: auto;
+    height: 61px;
+    background-color: rgb(84, 109, 156);
+    
+
+ }   
+
+ .image{
+
+    
+    margin: 2px 5px 2px 17px;
+    padding: 5px 2px 2px 491px;
+    width: auto;
+    height: 61px;
+    
+ }
+
+ i{
+     margin-left: 5px;
+ }
 
 
 
